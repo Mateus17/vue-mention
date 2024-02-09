@@ -1,5 +1,5 @@
 {
-  "name": "vue-mention-monorepo",
+  "name": "vue-mention",
   "version": "2.0.0-alpha.3",
   "private": true,
   "workspaces": [
